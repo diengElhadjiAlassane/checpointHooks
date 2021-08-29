@@ -1,0 +1,58 @@
+[
+    {
+        "id": 100,
+        "title": "Kingsglaive",
+        "description": "King Regis, who oversees the land of Lucis, commands his army of soldiers to protect the kingdom from the Niflheim empire's plans to steal the sacred crystal.",
+        "imageUrl": "../images/Kingsglaive_Final_Fantasy_XV.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 200,
+        "title": "Final Fantasy",
+        "description": "A scientist makes a last stand on Earth with the help of a ragtag team of soldiers against an invasion of alien phantoms.",
+        "imageUrl": "../images/Final_Fantasy_Spirits_Within.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 300,
+        "title": "Ghost In The Shell",
+        "description": "A hacker known as the Puppet Master is hunted by a female cyborg cop and her partner. This film is a revised version of Ghost in the Shell (1995).",
+        "imageUrl": "../images/Ghost_In_The_Shell_2_0.jpg",
+        "rating": 5
+    },
+    {
+        "id": 400,
+        "title": "Appleseed Alpha",
+        "description": "A young female soldier Deunan and her cyborg partner Briareos survive through the post World War 3 apocalyptic New York in search of human's future hope, the legendary city of Olympus.",
+        "imageUrl": "../images/Appleseed_Alpha.jpg",
+        "rating": 3.8
+    },
+    {
+        "id": 500,
+        "title": "Resident Evil",
+        "description": "Chris Redfield enlists the help of Leon S. Kennedy and Rebecca Chambers to stop a death merchant, with a vengeance, from spreading a deadly virus in New York.",
+        "imageUrl": "../images/Resident_Evil_Vendetta.jpg",
+        "rating": 4.2
+    },
+    {
+        "id": 600,
+        "title": "Prison Break",
+        "description": "This soap opera depicts the misadventures of two brothers confronted with the prison world. The plot revolves around the various prisons in which they themselves or some of their relatives will be imprisoned.",
+        "imageUrl": "../images/prisonbreak.jpeg",
+        "rating": 4.2
+    },
+    {
+        "id": 700,
+        "title": "24H Chrono",
+        "description": "The series chronicles in real time the members of days a fictitious agency, the Anti-Terrorist Unit ( Counter Terrorist Unit in the original version), struggling against various terrorist attacks in the United States.",
+        "imageUrl": "../images/chrono24.jpeg",
+        "rating": 10
+    },
+    {
+        "id": 800,
+        "title": "Scorpion",
+        "description": "Scorpion is based on the life of Walter O'Brien, a genius with an IQ of 197. Walter heads up a group of geniuses who are asked to work with Homeland Security Agent Cabe Gallo. Their talents and gifts help them in all kinds of situations.",
+        "imageUrl": "../images/scorpion.jpeg",
+        "rating": 4.2
+    }
+]
